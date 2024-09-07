@@ -1,2 +1,2 @@
 # Micro-Project-php
- KhataBook Clone. Using php &amp; bootstrap
+ KhataBook Clone. Using php, bootstrap and xampp 
